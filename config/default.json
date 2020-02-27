@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sean123:test123@contactkeeper-bttv2.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://sean123:test123@contactkeeper-bttv2.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
