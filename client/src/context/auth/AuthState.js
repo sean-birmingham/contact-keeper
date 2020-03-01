@@ -47,4 +47,4 @@ const AuthState = props => {
   );
 };
 
-export default ContactState;
+export default AuthState;
